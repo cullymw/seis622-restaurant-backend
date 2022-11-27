@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Omlette",
+        "cost": 9.99,
+        "description": "Egg and cheese omlette with your choice of toppings."
+    },
+    {
+        "id": 2,
+        "name": "Oatmeal",
+        "cost": 6.05,
+        "description": "Made with steel cut oats and fresh fruits."
+    },
+    {
+        "id": 3,
+        "name": "Breakfast sandwich",
+        "cost": 10.13,
+        "description": "Egg and cheese on english muffin with your choice of bacon, sausage, or no meat."
+    },
+    {
+        "id": 4,
+        "name": "Eggs Benedict",
+        "cost": 13.45,
+        "description": "Poached eggs and Canadian bacon served on english muffins topped with hollandaise."
+    },
+    {
+        "id": 5,
+        "name": "Breakfast bacon",
+        "cost": 5.03,
+        "description": "Three slices of maple and brown sugar bacon."
+    },
+    {
+        "id": 6,
+        "name": "Breakfast Sausage",
+        "cost": 5.03,
+        "description": "Five pieces of breakfast sausage."
+    }
+]
